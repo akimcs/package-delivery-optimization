@@ -24,6 +24,7 @@ According to directions, the trucks were manually loaded with pre-selected packa
 
 ## Extra Details: 
 The "output_screenshots" folder includes output screenshots of various input times. 
+
 The "assignment" folder includes pdfs of the official directions and also my writeup for this submission. 
 
 ## Author: 
