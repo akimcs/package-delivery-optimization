@@ -4,6 +4,8 @@
 ## Description: 
 The main goal of this program is to find the shortest route for two trucks to deliver packages. 
 
+This project solves a variation of the travelling salesman problem. 
+
 Each truck travels 18 mph and carries at most 16 packages. 
 The combined mileage of both trucks must not exceed 140 miles. 
 Each package has a deadline, delay, and/or delivery conditions. 
