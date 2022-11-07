@@ -1,5 +1,4 @@
-## Project Title: 
-# Package Delivery Optimization
+# Project Title: "Package Delivery Optimization"
 
 ## Description: 
 The main goal of this program is to find the shortest route for two trucks to deliver packages. 
