@@ -18,7 +18,7 @@ For a quick overview of this project, use the [screenshots](/output_screenshots)
 3. Download Python 3 from [here](https://www.python.org/downloads). 
 4. Run [main.py](/main.py) in PyCharm. 
 
-## How to Use:
+## Setup:
 1. Input a time of day. 
 2. The output will display a status chart of all packages at the given time. 
 
