@@ -9,6 +9,9 @@ The main goal of this project is to find the shortest route for two trucks to de
 * the ability to view the status of each package at any given time of day.
 * the ability to add more packages and destination addresses. 
 
+## Project Screenshots:  
+For a quick overview of this project, use the [screenshots](/output_screenshots) to see the output of various input times. 
+
 ## How to Run:
 1. Download all project files. 
 2. Download PyCharm Community Edition from [here](https://www.jetbrains.com/pycharm/download). 
@@ -18,9 +21,6 @@ The main goal of this project is to find the shortest route for two trucks to de
 ## How to Use:
 1. Input a time of day. 
 2. The output will display a status chart of all packages at the given time. 
-
-## Project Screenshots:  
-To see a quick overview of this project, use the [screenshots](/output_screenshots) to see the output of various input times. 
 
 ## Extra Details: 
 This project is my submission for a college assignment. 
