@@ -12,13 +12,13 @@ The main goal of this project is to find the shortest route for two trucks to de
 ## Project Screenshots:  
 For a quick overview of this project, use the [screenshots](/output_screenshots) to see the output of various input times. 
 
-## How to Run:
+## Setup:
 1. Download all project files. 
 2. Download PyCharm Community Edition from [here](https://www.jetbrains.com/pycharm/download). 
 3. Download Python 3 from [here](https://www.python.org/downloads). 
 4. Run [main.py](/main.py) in PyCharm. 
 
-## Setup:
+## How to Use:
 1. Input a time of day. 
 2. The output will display a status chart of all packages at the given time. 
 
