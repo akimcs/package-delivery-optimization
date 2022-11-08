@@ -1,7 +1,7 @@
 # "Package Delivery Optimization"
 
 ## Description: 
-A Python project that optimizes the delivery route of pre-selected packages (a variation of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)).
+A Python program that optimizes the delivery route of pre-selected packages (a variation of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)).
 
 The main goal of this project is to find the shortest route for two trucks to deliver packages. 
 
